@@ -21,7 +21,8 @@ This system is designed to detect defects in glass bangles using a Convolutional
    pip install numpy opencv-python tensorflow pillow tk scipy
     ```
 ## Usage
-**Make sur to chane the ptah(dataset_dir) in model.pyand  and (model_dir) in interface.py :**
+<span style="color:red;">
+**Make sur to change the ptah(dataset_dir) in model.pyand  and (model_dir) in interface.py :**
 
 
    
