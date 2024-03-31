@@ -1,5 +1,5 @@
 # AI-Based Quality Control System for Manufacturing Processes
-![Alt text]([path/to/image.jpg](https://github.com/amine10a/Quality/blob/main/Screenshot%202024-03-31%20023531.png))
+![Alt text](Screenshot%202024-03-31%20023531.pn)
 This system is designed to detect defects in glass bangles using a Convolutional Neural Network (CNN) model. It includes two main components: a training script (`model.py`) for training the CNN model and an interface script (`interface.py`) for real-time defect detection using the trained model.
 
 ## Requirements
