@@ -23,6 +23,10 @@ This system is designed to detect defects in glass bangles using a Convolutional
    ```bash
    pip install numpy opencv-python tensorflow pillow tk scipy
     ```
+ **Python Installation:**
+    ```bash
+   https://www.kaggle.com/datasets/almique/glass-bangle-defect-detection-classification?fbclid=IwAR1ulfcvO-qDs7ImVIaFzinQ0lmFjWs3Eqr6ltG2QN00g6OZ8FXgcnIiFsQ_aem_AVeGQSNIjoWHy2qFUnBp8xTccsJHuAnkI2RafIu_6oEwaQ4GF9vxkjeqwz4fM2PhMxoEmtpts6nqpjQUFucPWUZ1
+     ```
 ## Usage
 <span style="color:red;">Make sure to change the path (dataset_dir) in model.py and (model_dir) in interface.py:</span>
 
